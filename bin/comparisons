@@ -1,0 +1,6 @@
+Each entry has 3 lists of numbers. First list -> Signal Cut, second list -> QCD cut, third list -> TTBAR cut.
+These three numbers indicate which cuts from each of signal, QCD, and TTBAR should be compared.
+If three cuts should be compared, the TH1 plots for each will be added together.
+
+
+

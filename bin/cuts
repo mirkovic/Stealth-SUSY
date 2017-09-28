@@ -1,0 +1,54 @@
+Necessary header seperated by double whitespace. Sections are seperated by a two empty lines (seperate exactly two).
+---------------------------------------------------------
+Section 1:
+Each entry is number,name,type,value1,value2,...
+num,name,type,v1,v2,...
+---------------------------------------------------------
+Section 2:
+Seperate by single whitespace and add desired combinations of cuts
+num1,num2,num3,...
+
+
+1,all,mass<>t21<btag>pt><,105,135,1,.3,300,2
+2,all,mass<>t21<btag>pt>>,105,135,1,.3,300,1
+3,all,mass>t21<pt><,50,.6,200,2
+4,all,mass>t21<pt>>,50,.6,200,1
+5,all,mass>t21<pt><,50,.6,200,3
+6,all,mass>t21<pt>=,50,.6,200,3
+7,all,mass>t21<pt><,50,.6,200,4
+8,all,mass>t21<pt>>,50,.6,200,3
+9,all,mass>t21<pt>>,50,.6,200,-1
+10,jetAK8PuppiPt,ngreater,3,200
+
+
+2,4,10
+6,10
+7,10
+9,10
+
+
+You can safely write notes after here:
+old:
+1,jetAK8PuppiPt,ngreater,3,200
+2,jetAK4PuppiPt,sumgreater,4,200
+3,jetAK8PuppiCorrectedsoftDropMass,ngreater,3,50
+4,jetAK8PuppiCorrectedsoftDropMass,nless,3,110
+
+
+1,9
+3,9
+2,4,9
+5,9
+6,9
+7,9
+8,9
+1
+2
+3
+1,2
+1,3
+3,4
+1,3,4
+1,2,3,4
+
+

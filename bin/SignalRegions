@@ -1,0 +1,24 @@
+Necessary header seperated by double whitespace. Sections are seperated by a two empty lines (seperate exactly two).
+---------------------------------------------------------
+Section 1:
+Each entry is number,name,type,value1,value2,...
+num,name,type,v1,v2,...
+---------------------------------------------------------
+Section 2:
+Seperate by single whitespace and add desired combinations of cuts
+num1,num2,num3,...
+
+
+1,GluinoMass,range,1425,1475
+2,CharginoMass,range,1420,1430
+3,CharginoMass,greater,1150
+
+
+1,2
+3
+
+
+You can safely write notes after here:
+
+
+

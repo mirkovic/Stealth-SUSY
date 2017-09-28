@@ -1,0 +1,12 @@
+jetsAK8,jetAK8PuppiPhi,12,d
+jetsAK8,jetAK8PuppiEta,12,d
+jetsAK8,jetAK8PuppiCorrectedsoftDropMass,12,d
+jetsAK8,jetAK8PuppiPt,12,d
+jetsAK8,jetAK8Puppitau1,12,d
+jetsAK8,jetAK8Puppitau2,12,d
+jetsAK4CHS,jetAK4CHSPhi,128,d
+jetsAK4CHS,jetAK4CHSEta,128,d
+jetsAK4CHS,jetAK4CHSE,128,d
+jetsAK4CHS,jetAK4CHSPt,128,d
+filteredPrunedGenParticles,CharginoMass,1,d
+filteredPrunedGenParticles,GluinoMass,1,d

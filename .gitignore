@@ -1,0 +1,15 @@
+data/
+plots/
+oldbulk/
+notneeded/
+results/
+tarball.tgz
+commands.cmd
+RunOnGrid.py
+prevmoved.txt
+All*
+Files_susy*
+tmp*
+*.py.*
+*~
+
